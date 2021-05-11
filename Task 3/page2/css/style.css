@@ -43,7 +43,6 @@ main img {
   display: inline;
   float: left;
   margin: 0px 5px;
-
   text-align: center;
 }
 a {
@@ -53,15 +52,10 @@ a {
 a:hover {
   color: rgb(255, 60, 0);
 }
-.top {
-  height: 210px;
-  width: 882px;
-}
-.bottom {
-  height: 210px;
-  width: 882px;
-
-  margin-top: 52px;
+.menu {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 52px;
 }
 /*footer*/
 footer {
