@@ -1,2 +1,1 @@
-# GOIT_homework
-GOIT_homework
+# parrome.github.io
